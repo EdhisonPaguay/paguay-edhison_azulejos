@@ -1,5 +1,5 @@
 const celdas = [];
-const RETICULA = 100;
+const RETICULA = 12;
 
 const azulejos = [];
 const NA = 13; //numero de azulejos
